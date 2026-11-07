@@ -14,3 +14,4 @@ elif Bmi <=39.99:
     print("Obese")
 else:
     print("Too obese")
+print(Bmi)
